@@ -1,0 +1,268 @@
+[
+  {
+    "name": "Grafana",
+    "ring": "adopt",
+    "quadrant": "techniques",
+    "isNew": "TRUE",
+    "description": "Processes unbounded and bounded data streams for event-driven apps."
+  },
+  {
+    "name": "Travis CI",
+    "ring": "trial",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "Provides observability with metrics, logs, and traces."
+  },
+  {
+    "name": "Kafka",
+    "ring": "adopt",
+    "quadrant": "techniques",
+    "isNew": "TRUE",
+    "description": "CI/CD service tightly integrated with GitHub."
+  },
+  {
+    "name": "PyTorch",
+    "ring": "assess",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "A configuration management tool using Ruby-based DSL."
+  },
+  {
+    "name": "Datadog",
+    "ring": "assess",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "An advanced open-source relational database."
+  },
+  {
+    "name": "Kubernetes",
+    "ring": "adopt",
+    "quadrant": "platforms",
+    "isNew": "TRUE",
+    "description": "An in-memory data structure store, used as a database and cache."
+  },
+  {
+    "name": "New Relic",
+    "ring": "assess",
+    "quadrant": "tools",
+    "isNew": "TRUE",
+    "description": "A search engine designed for horizontal scalability and real-time search."
+  },
+  {
+    "name": "Elasticsearch",
+    "ring": "adopt",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "A library offering high-performance data manipulation in Python."
+  },
+  {
+    "name": "Jenkins",
+    "ring": "trial",
+    "quadrant": "tools",
+    "isNew": "TRUE",
+    "description": "Provides observability with metrics, logs, and traces."
+  },
+  {
+    "name": "React",
+    "ring": "adopt",
+    "quadrant": "platforms",
+    "isNew": "FALSE",
+    "description": "CI/CD service tightly integrated with GitHub."
+  },
+  {
+    "name": "Pandas",
+    "ring": "assess",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "Known for its complexity, this framework often introduces maintenance challenges."
+  },
+  {
+    "name": "JSF",
+    "ring": "hold",
+    "quadrant": "languages & frameworks",
+    "isNew": "TRUE",
+    "description": "A scalable analytics engine supporting multi-dimensional analysis."
+  },
+  {
+    "name": "CircleCI",
+    "ring": "adopt",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "An orchestration system for automating software deployment, scaling, and management."
+  },
+  {
+    "name": "MySQL",
+    "ring": "adopt",
+    "quadrant": "languages & frameworks",
+    "isNew": "TRUE",
+    "description": "An advanced open-source relational database."
+  },
+  {
+    "name": "Airflow",
+    "ring": "trial",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "A workflow scheduler for managing data pipelines."
+  },
+  {
+    "name": "Terraform",
+    "ring": "assess",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "Stream-processing software platform for building real-time data pipelines."
+  },
+  {
+    "name": "Docker",
+    "ring": "trial",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "A monitoring system and time series database built for reliability."
+  },
+  {
+    "name": "Puppet",
+    "ring": "adopt",
+    "quadrant": "platforms",
+    "isNew": "TRUE",
+    "description": "Offers Git-based source control and DevOps pipeline services."
+  },
+  {
+    "name": "MongoDB",
+    "ring": "trial",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "An orchestration system for automating software deployment, scaling, and management."
+  },
+  {
+    "name": "Vault",
+    "ring": "trial",
+    "quadrant": "platforms",
+    "isNew": "TRUE",
+    "description": "Stream-processing software platform for building real-time data pipelines."
+  },
+  {
+    "name": "Prometheus",
+    "ring": "trial",
+    "quadrant": "tools",
+    "isNew": "TRUE",
+    "description": "CI/CD service tightly integrated with GitHub."
+  },
+  {
+    "name": "Redis",
+    "ring": "trial",
+    "quadrant": "languages & frameworks",
+    "isNew": "TRUE",
+    "description": "A CI tool suitable for simple and open-source projects."
+  },
+  {
+    "name": "Apache Kylin",
+    "ring": "hold",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "A monitoring system and time series database built for reliability."
+  },
+  {
+    "name": "Next.js",
+    "ring": "hold",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "A widely adopted solution for managing dependencies in projects."
+  },
+  {
+    "name": "Consul",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "A search engine designed for horizontal scalability and real-time search."
+  },
+  {
+    "name": "Vue.js",
+    "ring": "hold",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "Service networking tool for connecting and securing services."
+  },
+  {
+    "name": "Ansible",
+    "ring": "trial",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "A configuration management tool using Ruby-based DSL."
+  },
+  {
+    "name": "Chef",
+    "ring": "adopt",
+    "quadrant": "platforms",
+    "isNew": "FALSE",
+    "description": "A compiler that generates highly efficient JavaScript code."
+  },
+  {
+    "name": "PostgreSQL",
+    "ring": "assess",
+    "quadrant": "tools",
+    "isNew": "TRUE",
+    "description": "A secrets management tool to control access to tokens, passwords, and certificates."
+  },
+  {
+    "name": "Flink",
+    "ring": "assess",
+    "quadrant": "tools",
+    "isNew": "TRUE",
+    "description": "A configuration management tool using Ruby-based DSL."
+  },
+  {
+    "name": "TensorFlow",
+    "ring": "trial",
+    "quadrant": "platforms",
+    "isNew": "FALSE",
+    "description": "A search engine designed for horizontal scalability and real-time search."
+  },
+  {
+    "name": "GitHub Actions",
+    "ring": "trial",
+    "quadrant": "platforms",
+    "isNew": "TRUE",
+    "description": "Helps automate software provisioning and configuration."
+  },
+  {
+    "name": "Canary builds",
+    "ring": "adopt",
+    "quadrant": "languages & frameworks",
+    "isNew": "TRUE",
+    "description": "Automation server commonly used for CI/CD pipelines."
+  },
+  {
+    "name": "Composer",
+    "ring": "hold",
+    "quadrant": "platforms",
+    "isNew": "TRUE",
+    "description": "A modern library for building user interfaces, backed by a strong community."
+  },
+  {
+    "name": "Bitbucket",
+    "ring": "assess",
+    "quadrant": "tools",
+    "isNew": "TRUE",
+    "description": "Provides a production-ready environment for Spring applications."
+  },
+  {
+    "name": "NumPy",
+    "ring": "hold",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "A widely-used open-source relational database."
+  },
+  {
+    "name": "Svelte",
+    "ring": "hold",
+    "quadrant": "platforms",
+    "isNew": "TRUE",
+    "description": "A search engine designed for horizontal scalability and real-time search."
+  },
+  {
+    "name": "Spring Boot",
+    "ring": "trial",
+    "quadrant": "platforms",
+    "isNew": "TRUE",
+    "description": "A search engine designed for horizontal scalability and real-time search."
+  }
+]
