@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Microservices (Java + Scala)",
+    "ring": "adopt",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "Spotify uses microservices architecture in Java and Scala to scale independent teams and services across its backend."
+  },
+  {
+    "name": "Apache Kafka",
+    "ring": "adopt",
+    "quadrant": "platforms",
+    "isNew": "FALSE",
+    "description": "Kafka is used for real\u2011time data streaming of user events and actions across Spotify\u2019s systems."
+  },
+  {
+    "name": "Apache Cassandra",
+    "ring": "adopt",
+    "quadrant": "platforms",
+    "isNew": "FALSE",
+    "description": "Spotify relies on Cassandra as a distributed NoSQL datastore for scale, availability, and cross\u2011region load."
+  },
+  {
+    "name": "Luigi",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Spotify built Luigi for ETL pipeline orchestration on Hadoop, scheduling thousands of batch data jobs."
+  },
+  {
+    "name": "Scio (Scala + Beam)",
+    "ring": "trial",
+    "quadrant": "tools",
+    "isNew": "TRUE",
+    "description": "Scio is Spotify\u2019s Scala API for Apache Beam running on Dataflow to unify batch/stream processing."
+  },
+  {
+    "name": "Google Cloud Platform",
+    "ring": "adopt",
+    "quadrant": "platforms",
+    "isNew": "FALSE",
+    "description": "Spotify migrated from on\u2011prem to GCP to run infrastructure, BigQuery analytics, Kubernetes, and storage."
+  },
+  {
+    "name": "Fleet Management Automation",
+    "ring": "adopt",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "Spotify employs fleet management to automate patching, upgrades, and library versioning across services."
+  },
+  {
+    "name": "Backstage Kubernetes plugin",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Custom Backstage plugin for Kubernetes observability tailored to service\u2011owner workflows in Spotify."
+  },
+  {
+    "name": "Service Discovery via DNS SRV",
+    "ring": "adopt",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "Spotify uses DNS SRV records as a service registry/discovery mechanism across internal microservices."
+  },
+  {
+    "name": "gRPC + Protobuf",
+    "ring": "adopt",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "Modern service\u2011to\u2011service RPC communication in Spotify uses gRPC with Protobuf for efficiency."
+  },
+  {
+    "name": "Prometheus & Grafana",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Spotify uses Prometheus and Grafana for metrics collection, alerting, and observability across services."
+  },
+  {
+    "name": "ELK Stack / Datadog",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Logging infrastructure built on ELK stack (Elasticsearch\u2011Logstash\u2011Kibana), often augmented with Datadog."
+  },
+  {
+    "name": "Apache Spark",
+    "ring": "trial",
+    "quadrant": "platforms",
+    "isNew": "TRUE",
+    "description": "Spotify uses Spark for large\u2011scale data processing and machine learning workloads."
+  },
+  {
+    "name": "Apache Storm",
+    "ring": "assess",
+    "quadrant": "platforms",
+    "isNew": "FALSE",
+    "description": "Storm was used for real\u2011time processing like ad targeting and product metrics."
+  },
+  {
+    "name": "React + Redux + Sass",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Frontend stack: React for UI, Redux for state management, Sass for styling in Spotify\u2019s web client."
+  },
+  {
+    "name": "Docker / Kubernetes",
+    "ring": "adopt",
+    "quadrant": "platforms",
+    "isNew": "FALSE",
+    "description": "Docker containers orchestrated by Kubernetes for deploying Spotify\u2019s microservices globally."
+  },
+  {
+    "name": "Voyager (Spotify NN search library)",
+    "ring": "assess",
+    "quadrant": "tools",
+    "isNew": "TRUE",
+    "description": "Voyager is Spotify\u2019s open\u2011source nearest\u2011neighbor search library combining HNSW accuracy and speed."
+  },
+  {
+    "name": "Basic Pitch",
+    "ring": "trial",
+    "quadrant": "tools",
+    "isNew": "TRUE",
+    "description": "Basic Pitch is Spotify\u2019s ML\u2011based audio\u2011to\u2011MIDI converter for note transcription tasks."
+  },
+  {
+    "name": "Graph Neural Networks for audiobook recommendations",
+    "ring": "assess",
+    "quadrant": "techniques",
+    "isNew": "TRUE",
+    "description": "Spotify pioneered the use of HGNN + Two\u2011Tower models to improve audiobook recommendation accuracy."
+  },
+  {
+    "name": "HBase for ML/Hadoop",
+    "ring": "trial",
+    "quadrant": "platforms",
+    "isNew": "TRUE",
+    "description": "Spotify employs HBase as storage backend for Hadoop and machine learning workloads."
+  }
+]
